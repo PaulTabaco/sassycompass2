@@ -4,7 +4,7 @@
     @include clearfix;
     h3 {
       padding-top: 10px;
-      padding-bottom: 20px;
+      padding-bottom: 5px;
       border-bottom: 1px dotted $lightgray;
       margin-bottom: 5px;
     } // h3
@@ -40,7 +40,7 @@
     float: left;
     li {
       display: inline-block;
-      margin-left: 25px;
+      margin-left: 5px;
       img {
         width: 30px;
         @include border-radius(50%);
